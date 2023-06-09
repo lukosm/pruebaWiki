@@ -8,6 +8,7 @@ Proyecto de prueba para ver como funciona una wiki
 - [Contribuci�n](#contribuci�n)
 - [Licencia](#licencia)
 - [Archivo de prueba](./wiki/prueba.md)
+- [Rama 1](./wiki/rama1.md)
 
 ## Instalacion
 
