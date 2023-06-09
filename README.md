@@ -9,6 +9,7 @@ Proyecto de prueba para ver como funciona una wiki
 - [Licencia](#licencia)
 - [Archivo de prueba](./wiki/prueba.md)
 - [Rama 1](./wiki/rama1.md)
+- [Rama3](./wiki/rama3.md)
 
 ## Instalacion
 
